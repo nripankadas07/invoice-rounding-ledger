@@ -1,0 +1,27 @@
+{
+  "currency": "AED",
+  "digits": 2,
+  "lines": [
+    {
+      "id": "A",
+      "quantity": "1",
+      "unit_price": "0.10",
+      "discount": "0",
+      "tax_rate": "0.05"
+    },
+    {
+      "id": "B",
+      "quantity": "1",
+      "unit_price": "0.10",
+      "discount": "0",
+      "tax_rate": "0.05"
+    },
+    {
+      "id": "C",
+      "quantity": "1",
+      "unit_price": "0.10",
+      "discount": "0",
+      "tax_rate": "0.05"
+    }
+  ]
+}
